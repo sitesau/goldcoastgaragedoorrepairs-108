@@ -1,0 +1,22 @@
+{
+  "wheel_id": 649,
+  "structure": "umbrella",
+  "slug": "goldcoastgaragedoorrepairs-108",
+  "project": "garage-door-repairs-gold-coast-budget-tips-b79e03727ec26e6bfca0",
+  "parent_t1_ref": "goldcoastgaragedoorrepairs-153",
+  "node_role": "feeder",
+  "money_target": "goldcoastgaragedoorrepairs.com.au",
+  "primary_kw": "garage door repairs gold coast budget tips",
+  "intended_url": "http://garage-door-repairs-gold-coast-budget-tips-b79e03727ec26e6bfca0.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "759e644064a1b83e",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/garage-door-repairs-gold-coast-local-options-compared-857aad/",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
